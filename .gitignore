@@ -1,0 +1,6 @@
+__py_cache__/
+.idea/
+.env/
+.venv/
+db.sqlite3/
+
